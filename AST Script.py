@@ -2,6 +2,7 @@ import json
 import random
 import os
 from datetime import datetime
+pip install streamlit
 
 class Quiz:
     def __init__(self, filename):
